@@ -1,0 +1,4 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="Automatically_Create_Grid_Columns.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+  </Application.Resources>
+</Application>
