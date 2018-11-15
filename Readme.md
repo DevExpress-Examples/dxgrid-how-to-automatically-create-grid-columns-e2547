@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/Automatically Create Grid Columns/MainPage.xaml) (VB: [MainPage.xaml](./VB/Automatically Create Grid Columns/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Automatically Create Grid Columns/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Automatically Create Grid Columns/MainPage.xaml))
+* [Products.cs](./CS/Automatically Create Grid Columns/Products.cs) (VB: [Products.vb](./VB/Automatically Create Grid Columns/Products.vb))
+<!-- default file list end -->
 # DXGrid - How to Automatically Create Grid Columns
 
 
