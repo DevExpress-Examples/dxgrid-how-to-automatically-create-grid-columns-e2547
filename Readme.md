@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/Automatically Create Grid Columns/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Automatically Create Grid Columns/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/Automatically Create Grid Columns/MainPage.xaml) (VB: [MainPage.xaml](./VB/Automatically Create Grid Columns/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/Automatically Create Grid Columns/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Automatically Create Grid Columns/MainPage.xaml.vb))
 * [Products.cs](./CS/Automatically Create Grid Columns/Products.cs) (VB: [Products.vb](./VB/Automatically Create Grid Columns/Products.vb))
 <!-- default file list end -->
